@@ -67,6 +67,8 @@ class HomeActivity : AppCompatActivity() {
         }
         snapHelper.attachToRecyclerView(binding.rvEmployee)
         snapHelper.attachToRecyclerView(binding.rvHolidays)
+
+        //Hello World
     }
 
 }
